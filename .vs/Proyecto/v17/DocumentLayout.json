@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34E2791E-B85B-438C-969B-D91EC42F0B9A}|ConfigInicial\\ConfigInicial.vcxproj|C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34E2791E-B85B-438C-969B-D91EC42F0B9A}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34E2791E-B85B-438C-969B-D91EC42F0B9A}|ConfigInicial\\ConfigInicial.vcxproj|C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\319286099_319252903_ProyectoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34E2791E-B85B-438C-969B-D91EC42F0B9A}|ConfigInicial\\ConfigInicial.vcxproj|solutionrelative:ConfigInicial\\319286099_319252903_ProyectoFinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\Main.cpp",
-              "RelativeDocumentMoniker": "ConfigInicial\\Main.cpp",
-              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\Main.cpp",
-              "RelativeToolTip": "ConfigInicial\\Main.cpp",
+              "Title": "319286099_319252903_ProyectoFinal.cpp",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\319286099_319252903_ProyectoFinal.cpp",
+              "RelativeDocumentMoniker": "ConfigInicial\\319286099_319252903_ProyectoFinal.cpp",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Escritorio\\Proyecto\\ConfigInicial\\319286099_319252903_ProyectoFinal.cpp",
+              "RelativeToolTip": "ConfigInicial\\319286099_319252903_ProyectoFinal.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-14T07:30:51.602Z",
