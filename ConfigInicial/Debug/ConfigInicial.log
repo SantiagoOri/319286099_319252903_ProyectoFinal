@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(381,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1358,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1359,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1363,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1364,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1366,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\santi\OneDrive\Escritorio\Proyecto\ConfigInicial\Main.cpp(1367,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ConfigInicial.vcxproj -> C:\Users\santi\OneDrive\Escritorio\Proyecto\Debug\ConfigInicial.exe
